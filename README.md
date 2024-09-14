@@ -9,7 +9,7 @@ https://www.saucedemo.com
 ### Инструкция по установке и запуску теста.
 
 #### Клонируйте репозиторий:
-1. git clone https://github.com/victwin33/E2E_UI_test.git
+1. https://github.com/victwin33/E2E_UI.git
 2. cd Е2Е_UI
 
 ##### Установите зависимости:
